@@ -20,6 +20,7 @@ app.route('/menus', menus)
 app.route('/auth', auth)
 
 app.get('/', (c) => {
+  // c: Context
   return c.text('Hello Hono!')
 })
 

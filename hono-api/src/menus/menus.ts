@@ -10,7 +10,7 @@ let foodMenus = [
   },
   {
     id: '2',
-    name: 'カレー',
+    name: '好美カレー',
     content: 'キーマカレーが好きです'
   },
   {
